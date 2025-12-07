@@ -79,4 +79,4 @@ The script generates a conceptual figure demonstrating the **Topology Transition
 ---
 
 **License:** MIT  
-**Author:** [Your Name/Organization]
+
